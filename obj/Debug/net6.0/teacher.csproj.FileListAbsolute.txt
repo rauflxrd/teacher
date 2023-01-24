@@ -1,0 +1,15 @@
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\teacher.csproj.AssemblyReference.cache
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\teacher.AssemblyInfoInputs.cache
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\teacher.AssemblyInfo.cs
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\teacher.csproj.CoreCompileInputs.cache
+C:\Users\mehre\source\repos\teacher\teacher\bin\Debug\net6.0\teacher.exe
+C:\Users\mehre\source\repos\teacher\teacher\bin\Debug\net6.0\teacher.deps.json
+C:\Users\mehre\source\repos\teacher\teacher\bin\Debug\net6.0\teacher.runtimeconfig.json
+C:\Users\mehre\source\repos\teacher\teacher\bin\Debug\net6.0\teacher.dll
+C:\Users\mehre\source\repos\teacher\teacher\bin\Debug\net6.0\teacher.pdb
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\teacher.dll
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\refint\teacher.dll
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\teacher.pdb
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\teacher.genruntimeconfig.cache
+C:\Users\mehre\source\repos\teacher\teacher\obj\Debug\net6.0\ref\teacher.dll
